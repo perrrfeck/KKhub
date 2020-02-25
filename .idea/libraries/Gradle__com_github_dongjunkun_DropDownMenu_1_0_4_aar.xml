@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dongjunkun:DropDownMenu:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-DropDownMenu-1.0.4.aar/a4af86d12dacfe8be149640741deaf05/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-DropDownMenu-1.0.4.aar/a4af86d12dacfe8be149640741deaf05/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dongjunkun/DropDownMenu/1.0.4/383c0eafead475407edabc6f7994645dba04994c/DropDownMenu-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

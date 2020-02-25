@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.noties.markwon:ext-tables:4.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ext-tables-4.0.2.aar/97ff79a94413615a03b974bad457017e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ext-tables-4.0.2.aar/97ff79a94413615a03b974bad457017e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ext-tables-4.0.2.aar/97ff79a94413615a03b974bad457017e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.noties.markwon/ext-tables/4.0.2/4a0467a296e6b1011947d1ee471ab003ab3adf5a/ext-tables-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

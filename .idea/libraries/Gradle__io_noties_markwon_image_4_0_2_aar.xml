@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.noties.markwon:image:4.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/image-4.0.2.aar/72e3c3e4f7dac4d352e2dd8dc8382a42/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/image-4.0.2.aar/72e3c3e4f7dac4d352e2dd8dc8382a42/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.noties.markwon/image/4.0.2/57651f1d73971fd27023aeb5afa6f761c87c97a4/image-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tiagohm.MarkdownView:library:0.19.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.19.0.aar/ba9e767b12a99fddeabede5afc4f3779/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.19.0.aar/ba9e767b12a99fddeabede5afc4f3779/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tiagohm.MarkdownView/library/0.19.0/ca25cdb85771c2716752a41d271b381e663f178d/library-0.19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

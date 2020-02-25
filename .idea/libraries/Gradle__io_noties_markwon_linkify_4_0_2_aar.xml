@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.noties.markwon:linkify:4.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/linkify-4.0.2.aar/82c993264cb44f5030fb2c9cac390b5b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/linkify-4.0.2.aar/82c993264cb44f5030fb2c9cac390b5b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/linkify-4.0.2.aar/82c993264cb44f5030fb2c9cac390b5b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.noties.markwon/linkify/4.0.2/b89b5fa70960b96e1796705544ca6c7cb78572cc/linkify-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

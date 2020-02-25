@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:weather-icons-typeface:2.0.10.5-kotlin@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/weather-icons-typeface-2.0.10.5-kotlin.aar/7378ff42ab28fe0d990d26cbec2f3563/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/weather-icons-typeface-2.0.10.5-kotlin.aar/7378ff42ab28fe0d990d26cbec2f3563/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/weather-icons-typeface/2.0.10.5-kotlin/3c0aaf12c08af015da31c73315ee088e07b02a65/weather-icons-typeface-2.0.10.5-kotlin-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

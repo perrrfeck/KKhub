@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.CarGuo.LazyRecyclerAdapter:CommonRecycler-Kotlin:v4.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-CommonRecycler-Kotlin-v4.0.6.aar/d2983f7f8356e023eacd25eeb00eb18c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-CommonRecycler-Kotlin-v4.0.6.aar/d2983f7f8356e023eacd25eeb00eb18c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
